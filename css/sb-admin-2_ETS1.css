@@ -6964,6 +6964,7 @@ button.bg-dark:focus {
 
 .align-items-center {
   margin: 0;
+  text-align: center;
   align-items: center !important;
 }
 
